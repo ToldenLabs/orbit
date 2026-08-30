@@ -1,8 +1,0 @@
-ion*.json
-sample*.json
-*.pdf
-node_modules/
-dist/
-dist-www/
-.DS_Store
-
