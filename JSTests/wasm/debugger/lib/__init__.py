@@ -1,3 +1,0 @@
-"""
-WebAssembly Debugger Test Framework
-"""

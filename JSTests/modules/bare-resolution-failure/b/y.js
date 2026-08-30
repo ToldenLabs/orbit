@@ -1,1 +1,0 @@
-import "bare-specifier-will-fail";
